@@ -64,7 +64,7 @@ $ sudo timedatectl set-ntp true
 $ wget https://raw.githubusercontent.com/MXCodemax/Auto-Report/main/Sysmk-v1.0.0.tar.gz
 
 # Extraia os arquivos com o comando seguinte
-$ tar -xzvf Auto-Report-System-v1.0.0.tar.gz
+$ tar -xzvf Sysmk-v1.0.0.tar.gz
 
 # Acessar diretório dos arquivos
 $ cd Sysmk-Auto-Report/automation
