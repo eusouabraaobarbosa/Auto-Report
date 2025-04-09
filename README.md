@@ -61,7 +61,7 @@ $ sudo timedatectl set-ntp true
 
 ```bash
 # Faça o Download do pacote
-$ wget https://raw.githubusercontent.com/MXCodemax/Auto-Report/main/Sysmk-v1.0.0.tar.gz
+$ wget https://raw.githubusercontent.com/eusouabraaobarbosa/Auto-Report/main/Sysmk-v1.0.0.tar.gz
 
 # Extraia os arquivos com o comando seguinte
 $ tar -xzvf Sysmk-v1.0.0.tar.gz
